@@ -1,0 +1,12 @@
+/Users/v.roman/Projects/CashMachine/CashMachine/bin/Debug/netcoreapp3.1/CashMachine.deps.json
+/Users/v.roman/Projects/CashMachine/CashMachine/bin/Debug/netcoreapp3.1/CashMachine.runtimeconfig.json
+/Users/v.roman/Projects/CashMachine/CashMachine/bin/Debug/netcoreapp3.1/CashMachine.runtimeconfig.dev.json
+/Users/v.roman/Projects/CashMachine/CashMachine/bin/Debug/netcoreapp3.1/CashMachine.dll
+/Users/v.roman/Projects/CashMachine/CashMachine/bin/Debug/netcoreapp3.1/CashMachine.pdb
+/Users/v.roman/Projects/CashMachine/CashMachine/obj/Debug/netcoreapp3.1/CashMachine.csprojAssemblyReference.cache
+/Users/v.roman/Projects/CashMachine/CashMachine/obj/Debug/netcoreapp3.1/CashMachine.csproj.CoreCompileInputs.cache
+/Users/v.roman/Projects/CashMachine/CashMachine/obj/Debug/netcoreapp3.1/CashMachine.AssemblyInfoInputs.cache
+/Users/v.roman/Projects/CashMachine/CashMachine/obj/Debug/netcoreapp3.1/CashMachine.AssemblyInfo.cs
+/Users/v.roman/Projects/CashMachine/CashMachine/obj/Debug/netcoreapp3.1/CashMachine.dll
+/Users/v.roman/Projects/CashMachine/CashMachine/obj/Debug/netcoreapp3.1/CashMachine.pdb
+/Users/v.roman/Projects/CashMachine/CashMachine/obj/Debug/netcoreapp3.1/CashMachine.genruntimeconfig.cache
